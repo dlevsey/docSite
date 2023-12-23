@@ -1,0 +1,8 @@
+{
+    "plugins": ["-search", "sphinx"],
+    "pluginsConfig": {
+      "sphinx": {
+        "src": "/build/html"
+      }
+    }
+}

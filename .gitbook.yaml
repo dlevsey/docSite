@@ -1,3 +1,5 @@
+root: ./build/html
+
 structure:
   readme: index.html
   summary: SUMMARY.md​
@@ -6,4 +8,3 @@ structure:
 
 
 
-root: ./build/html
